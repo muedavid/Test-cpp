@@ -11,5 +11,10 @@ Füge alles auf Github hinzu:
 
 Git add .
 Git commit -m "...."
+git push
 
+Branch
+
+git branch // alle branch die Vorhanden sind
+git branch test // erzeugt neuer branch mit dem Namen test
 
