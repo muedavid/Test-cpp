@@ -1,0 +1,15 @@
+
+Erzeuge eine neue Directory direkt auf Github:
+
+Lade diese herunter: git clone http.....
+
+Kopiere alle files in diese Directory
+
+
+
+Füge alles auf Github hinzu:
+
+Git add .
+Git commit -m "...."
+
+
