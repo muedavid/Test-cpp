@@ -24,5 +24,3 @@ Nach Änderungen in diesem Branch:
 git add .
 git commit -m "..."
 git push --set-upstream origin test
-
-Nach erstem push ist es nicht meh nötig --set-upstream hinzuzufügen
