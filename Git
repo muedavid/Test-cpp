@@ -35,3 +35,6 @@ Nächste Schritte absolviere online auf der Github platform: merge branches zusa
 auf dem Computer:
 git pull im master branch
 
+Nun lösche den alten Branch online und auf dem computer
+git branch -d test
+online: auf branch drücken
