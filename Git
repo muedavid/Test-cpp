@@ -27,3 +27,7 @@ git push --set-upstream origin test
 
 nach dem ersten push vereinfachtes verfahren
 git push
+
+git merge
+
+Nächste Schritte absolviere online auf der Github platform: merge branches zusammen
