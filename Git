@@ -26,3 +26,4 @@ git commit -m "..."
 git push --set-upstream origin test
 
 nach dem ersten push vereinfachtes verfahren
+git push
