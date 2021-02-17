@@ -30,4 +30,8 @@ git push
 
 git merge
 
-Nächste Schritte absolviere online auf der Github platform: merge branches zusammen
+Nächste Schritte absolviere online auf der Github platform: merge branches zusammen.
+
+auf dem Computer:
+git pull im master branch
+
