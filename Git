@@ -30,7 +30,7 @@ git push origin test
 
 git merge
 
-Nächste Schritte absolviere online auf der Github platform: merge branches zusammen.
+Nächste Schritte absolviere online auf der Github platform: merge branches zusammen mit pull request
 
 auf dem Computer:
 git pull im master branch
@@ -38,3 +38,10 @@ git pull im master branch
 Nun lösche den alten Branch online und auf dem computer
 git branch -d test
 online: auf branch drücken
+
+git Merge einzelne Files:
+in branch test neues file, alles andere sollte belassen werden:
+git checkout master
+git checkout test ~/git_tutorial/...
+
+
